@@ -1,8 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2400000
-https://prod-live-europe-west1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e099f78_z6XmBRii/wixmp-3dbd5cb16bb136182e099f78_z6XmBRii_res720p/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000
-https://prod-live-europe-west1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e099f78_z6XmBRii/wixmp-3dbd5cb16bb136182e099f78_z6XmBRii_res480p/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=400000
-https://prod-live-europe-west1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e099f78_z6XmBRii/wixmp-3dbd5cb16bb136182e099f78_z6XmBRii_res240p/index.m3u8
